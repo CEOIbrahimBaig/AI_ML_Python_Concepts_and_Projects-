@@ -22,6 +22,6 @@ marks = {
 
 print (marks,type(marks)) # Print data and data type 
 
-print (marks[43])
+print (marks[c])
 
 print (marks)
